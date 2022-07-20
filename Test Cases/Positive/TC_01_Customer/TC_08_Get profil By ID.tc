@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_08_Get profil By ID</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bf702e6c-ca44-4b48-a0fb-8806ff5abe07</testCaseGuid>
+</TestCaseEntity>

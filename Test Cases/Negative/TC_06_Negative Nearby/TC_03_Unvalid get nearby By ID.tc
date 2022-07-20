@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_03_Unvalid get nearby By ID</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f3b6f47d-e644-4890-909f-a0a14ed09d92</testCaseGuid>
+</TestCaseEntity>

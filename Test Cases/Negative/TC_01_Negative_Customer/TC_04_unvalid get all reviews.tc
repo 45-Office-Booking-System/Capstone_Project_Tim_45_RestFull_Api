@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_04_unvalid get all reviews</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>aaf2390d-411f-43b7-834c-8c1ca7050e9f</testCaseGuid>
+</TestCaseEntity>

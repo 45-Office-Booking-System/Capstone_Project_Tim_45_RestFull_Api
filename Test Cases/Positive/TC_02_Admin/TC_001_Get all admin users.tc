@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_001_Get all admin users</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>639b07da-974d-4f1e-9e88-c8a52f7153f5</testCaseGuid>
+</TestCaseEntity>

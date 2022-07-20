@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_01_Unvalid Get_all_User</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8e69536b-18b5-4db1-b1a9-6a1a57e57dc3</testCaseGuid>
+</TestCaseEntity>

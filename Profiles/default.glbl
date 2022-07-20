@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://officebooking-app-pn6n3.ondigitalocean.app/'</initValue>
+      <name>BaseURL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySUQiOjUsImVtYWlsIjoiY2xhcmlzYTEyMkBnbWFpbC5jb20iLCJuYW1lIjoiY2xhcmlzYSIsInBob25lIjoiMDg1MTIyMjIyMiIsImV4cCI6MTY1ODIwNzA3NH0.FL6KtAxOa-GipIntwemOAbprhrHzb344pl9qRPB4hzA'</initValue>
+      <name>Token</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

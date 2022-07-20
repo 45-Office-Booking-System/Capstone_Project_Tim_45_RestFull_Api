@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_03_Delete admin review id</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>272c5312-d8a7-40a6-b837-aef853d3e7d6</testCaseGuid>
+</TestCaseEntity>

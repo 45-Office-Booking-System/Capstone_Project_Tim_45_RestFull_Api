@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_04_Get_all reviews</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bd78fbb2-8ae7-437e-b142-04ba9da75041</testCaseGuid>
+</TestCaseEntity>

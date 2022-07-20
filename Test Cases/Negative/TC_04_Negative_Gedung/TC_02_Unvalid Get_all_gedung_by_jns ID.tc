@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_02_Unvalid Get_all_gedung_by_jns ID</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d58ac7cc-ae1f-43f7-abc9-85432de28dfd</testCaseGuid>
+</TestCaseEntity>

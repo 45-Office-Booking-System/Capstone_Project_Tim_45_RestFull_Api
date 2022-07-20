@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_02_Unvalid Get_all_booking_by_ID</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>eeb13ffb-6045-4eef-bc0f-6904190955d3</testCaseGuid>
+</TestCaseEntity>

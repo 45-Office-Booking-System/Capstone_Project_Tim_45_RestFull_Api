@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_02_unvalid Get all gedung by ID</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c234f042-343e-4e3c-8e78-8edec0299646</testCaseGuid>
+</TestCaseEntity>

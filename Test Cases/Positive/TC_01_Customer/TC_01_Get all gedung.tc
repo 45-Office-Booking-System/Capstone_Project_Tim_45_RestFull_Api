@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_01_Get all gedung</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f4bb13a7-98eb-4dea-a926-6a0fb552782e</testCaseGuid>
+</TestCaseEntity>

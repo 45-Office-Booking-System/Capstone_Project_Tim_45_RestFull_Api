@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_01_Unvalid_Get_all_gedung</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b018d68e-ce68-4880-8f01-51a6aa636454</testCaseGuid>
+</TestCaseEntity>

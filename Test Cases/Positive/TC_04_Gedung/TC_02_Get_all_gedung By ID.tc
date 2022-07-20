@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_02_Get_all_gedung By ID</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>226402e1-4538-465b-8b9f-8e20c63176aa</testCaseGuid>
+</TestCaseEntity>

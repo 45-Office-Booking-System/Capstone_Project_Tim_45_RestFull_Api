@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_04_Unvalid Post New Jenis Gedung</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a5525bc5-2c38-4cb0-b947-4cd67fe47668</testCaseGuid>
+</TestCaseEntity>

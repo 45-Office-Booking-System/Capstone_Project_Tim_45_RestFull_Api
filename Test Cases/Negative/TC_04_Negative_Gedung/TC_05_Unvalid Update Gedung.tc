@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_05_Unvalid Update Gedung</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8ed6c2b0-10e3-47a4-a8c9-7de9832db685</testCaseGuid>
+</TestCaseEntity>
